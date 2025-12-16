@@ -18,6 +18,9 @@ To demonstrate the aforementioned co-selection mechanism by detecting the co-exi
 - **Tool:** ResFinder-4.7.2 (Center for Genomic Epidemiology).
 - **Settings:** Acquired resistance genes (Threshold: 90% ID, 60% Length).
 
+> **Note on Data Selection (Technical Model):**
+> Since the raw WGS data from the target French study (Um et al., 2022) was not publicly available, I selected **RefSeq strain EC590** as a **technical model** for this demonstration. Although this is a human isolate (Malaysia), I prioritized it because it carries the same critical resistance profile (**mcr-1** alongside **sul** and **dfr** genes) as the French veal calf isolates reported by ANSES. 
+
 **Results:**
 The screening confirmed that this isolate carries multiple critical resistance genes supporting the MDR profile.
 - **Colistin:** `mcr-1.1` (100% Identity) - *Highest Priority Critical Antimicrobial*
