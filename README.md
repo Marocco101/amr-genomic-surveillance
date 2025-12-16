@@ -25,7 +25,7 @@ The screening confirmed that this isolate carries multiple critical resistance g
 - **Trimethoprim:** `dfrA17` (100% Identity) - *Gene cassette often associated with integrons*
 - **Beta-lactams:** `blaTEM-1B`
 
-![ResFinder Result](resfinder_result.jpg)
+![ResFinder Result](resfinder_result.png)
 
 *(Interpretation: The simultaneous presence of mcr-1, sul1, sul2, and dfrA17 suggests that resistance to Colistin could be maintained even if only Sulfonamides or Trimethoprim are used.)*
 
