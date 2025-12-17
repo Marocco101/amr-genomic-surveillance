@@ -86,7 +86,7 @@ I used the **NCBI Graphics** tool to examine the chromosomal neighborhood of the
 **Results & My Observation:**
 I successfully visualized the "Integron Trap" structure.
 
-![Integron Trap Map](integron_trap_map.png)
+![Integron Trap Map](integron_trap_map.jpg)
 
 * **Observation 1 (The Trap):**
 As shown in the map above, **`sul1`** and **`dfrA17`** (as *dihydrofolate reductase*) are located right next to each other. This physical linkage means that using Sulfonamides, to replace Colistin, will inevitably co-select for Trimethoprim resistance.
